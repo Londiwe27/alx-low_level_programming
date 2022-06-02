@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char str [] = "Programming is like building a multilingual puzzle";
+    char str [] = "with proper grammar, but the outcome is a piece of art";
     printf(str);
     return 0;
-:}
+}
