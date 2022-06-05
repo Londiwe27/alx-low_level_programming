@@ -6,7 +6,7 @@
 * * it is positive,negative,or zero.
 * Return: Always 0.
 */
-into main(void)
+int main(void)
 {
 	else if (n < 0)
 	printf("%d is negative\n", n);
