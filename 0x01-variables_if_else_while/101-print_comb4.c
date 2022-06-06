@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program that  prints different combinations of three digit numbers.
+ * main - program that prints different combinations of three digit numbers.
  *
  * Return: Always 0.
  */
@@ -24,6 +24,7 @@ int main(void)
 
 			putchar(',');
 			putchar(' ');
+			}
 		}
 	}
 
