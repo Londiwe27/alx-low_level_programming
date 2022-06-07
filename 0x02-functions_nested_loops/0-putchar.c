@@ -7,6 +7,6 @@
  * Return: Always 0
  * /
  into _putch(char c)
- {
- 	return (write(1, &c, 1));
+{
+	return (write(1, &c, 1));
 }
