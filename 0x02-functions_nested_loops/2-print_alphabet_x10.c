@@ -7,7 +7,7 @@
 /**
  * print_alphabet_x10 - print 10times the alphabeth, in lowercase.
  */
-void print_alphabeth_x10(void);
+void print_alphabet_x10(void)
 {
 	int count;
 	char l;
