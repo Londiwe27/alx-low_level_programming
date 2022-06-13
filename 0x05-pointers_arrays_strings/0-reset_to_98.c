@@ -1,4 +1,5 @@
 #include "main.h"
+ #ifndef MAIN_H
 
 /**
  * reset_to_98 - updates the value of points n to 98.
